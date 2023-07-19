@@ -1,0 +1,11 @@
+.task-item {
+   
+    margin-bottom: 5px;
+  }
+  .task-item button{
+    margin-left: 10px;
+  }
+  
+  .task-item span {
+    margin-right: 10px;
+  }
